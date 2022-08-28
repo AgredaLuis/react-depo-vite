@@ -1,4 +1,4 @@
-# Practica de Task-List con react utilizando vite.js, y Tailwind.css
+# Practica de Task-List con react utilizando vitejs, y Tailwind.css
 
 te invito a ver el resultado visitando https://agredaluis.github.io/react-depo-vite/
 
@@ -11,5 +11,5 @@ te invito a ver el resultado visitando https://agredaluis.github.io/react-depo-v
 
 # Resources
 * Tailwind.css
-* Vite.js para react.js
+* Vitejs para react.js
 * ph-pages npm
